@@ -5,5 +5,5 @@
 
 #### To Access Matador UI:
 -Clone Matador repo [https://github.com/ShaneK/Matador]
--`npm install`
--`npm start`
+- `npm install`
+- `npm start`
